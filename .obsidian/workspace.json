@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "1c78023ac6c03468",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1752c35d63964ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f9ae514d505026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "5189a1667dfb31ce"
+          }
+        ]
+      },
+      {
+        "id": "5fea00df7a92b059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cddec24a66c9365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "5189a1667dfb31ce"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba1fe7cc22f9dedb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c01cfae1c374e3a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fd5bbbb195926d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c0db3e4e554bab9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25d67b156743b7e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19d4a71daf7cc6d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d41908b44961a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1d1abae6f41847e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99c3bcb39c09827d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "229d34fbbdbeef98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bea7471b14a67c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6cddec24a66c9365",
+  "lastOpenFiles": [
+    "example.png",
+    "README.md"
+  ]
+}
