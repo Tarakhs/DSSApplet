@@ -9,7 +9,7 @@ ML Algorithms: [SkLearn](https://scikit-learn.org/stable/)
 
 Indicative screenshot:
 
-![[example.png]]
+![[https://github.com/Tarakhs/DSSApplet/blob/master/example.png]]
 ## How to
 
 1) Clone the repo and cd into it.
